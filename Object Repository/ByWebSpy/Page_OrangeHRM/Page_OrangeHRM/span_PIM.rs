@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_PIM</name>
+   <tag></tag>
+   <elementGuidId>5b628468-d5f9-4a01-b315-54f3fb59ecc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d96d471e-9b39-44d5-92d7-7b84baf3457c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--span oxd-main-menu-item--name</value>
+      <webElementGuid>7f952800-7c32-4e92-89e6-58c1a3b4fcaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PIM</value>
+      <webElementGuid>6f688815-e859-4744-b399-4d2033e1a863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item&quot;]/span[@class=&quot;oxd-text oxd-text--span oxd-main-menu-item--name&quot;]</value>
+      <webElementGuid>724b00a7-5278-41b2-9a6a-2678cbf867c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[2]/a/span</value>
+      <webElementGuid>d499328b-8f5f-4f73-b6fd-ea3785f47b3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>9353b48c-e7e0-4013-973b-57a67dfd02b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'PIM' or . = 'PIM')]</value>
+      <webElementGuid>4d12c8be-1fb4-4196-9299-fd41cca52313</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
