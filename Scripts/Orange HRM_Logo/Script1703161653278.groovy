@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('OrangeHRM_Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyTextPresent('Leave', true)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_OrangeHRM/img'), 0)
 
 WebUI.closeBrowser()
 

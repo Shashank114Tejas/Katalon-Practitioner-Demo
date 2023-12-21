@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Recruitment</name>
+   <name>p_My Actions</name>
    <tag></tag>
-   <elementGuidId>f2e03961-8a9d-4060-bea9-c7e35d518615</elementGuidId>
+   <elementGuidId>4acb98e2-2e91-4268-a2aa-d3c4f6cef093</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[5]/a/span</value>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div/div/p</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -20,55 +21,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>62d857c9-68fd-4b66-aa6a-a8d6715e8e01</webElementGuid>
+      <value>p</value>
+      <webElementGuid>e2d5ef7b-f595-44b4-96d7-75c0d7f52ce4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oxd-text oxd-text--span oxd-main-menu-item--name</value>
-      <webElementGuid>75593a23-da79-4c7e-ab8f-785ea71fd586</webElementGuid>
+      <value>oxd-text oxd-text--p</value>
+      <webElementGuid>af15c4a3-6832-4261-aaee-dac222720f84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Recruitment</value>
-      <webElementGuid>ea9a9e6b-1d47-4a1c-a5af-1e87cd3a3e9b</webElementGuid>
+      <value>My Actions</value>
+      <webElementGuid>7c4133bc-a765-4afa-9888-57e46e4409a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item&quot;]/span[@class=&quot;oxd-text oxd-text--span oxd-main-menu-item--name&quot;]</value>
-      <webElementGuid>e908c925-b971-4845-a7fc-f4bfca8b0132</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-dashboard-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters orangehrm-dashboard-widget&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--white orangehrm-dashboard-widget&quot;]/div[@class=&quot;orangehrm-dashboard-widget-header&quot;]/div[@class=&quot;orangehrm-dashboard-widget-name&quot;]/p[@class=&quot;oxd-text oxd-text--p&quot;]</value>
+      <webElementGuid>29ac305c-8607-44a9-9094-2d6ab819ff07</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[5]/a/span</value>
-      <webElementGuid>b16a9b06-2052-4107-8210-6c30d818abc2</webElementGuid>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div/div/p</value>
+      <webElementGuid>662ed47a-047d-4eb4-b9dc-62a9c832e104</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[5]/a/span</value>
-      <webElementGuid>4dc06104-2ab9-4e88-abdd-365ecb9fee49</webElementGuid>
+      <value>//div[2]/div/div/div/p</value>
+      <webElementGuid>f8ae4dde-0d38-4c15-b25b-4942ed1bd411</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Recruitment' or . = 'Recruitment')]</value>
-      <webElementGuid>5741027a-0d8c-4756-bc5d-d613608f52d7</webElementGuid>
+      <value>//p[(text() = 'My Actions' or . = 'My Actions')]</value>
+      <webElementGuid>f2006717-c6d5-4934-b08a-da241d60e55e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

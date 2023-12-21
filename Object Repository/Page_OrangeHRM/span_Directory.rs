@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Recruitment</name>
+   <name>span_Directory</name>
    <tag></tag>
-   <elementGuidId>f2e03961-8a9d-4060-bea9-c7e35d518615</elementGuidId>
+   <elementGuidId>6bdd26b1-4a3d-4d2f-8156-895726b2a4ba</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[5]/a/span</value>
+         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[9]/a/span</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>62d857c9-68fd-4b66-aa6a-a8d6715e8e01</webElementGuid>
+      <webElementGuid>331b65b0-dd1c-4208-8273-97fa017dd921</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-text oxd-text--span oxd-main-menu-item--name</value>
-      <webElementGuid>75593a23-da79-4c7e-ab8f-785ea71fd586</webElementGuid>
+      <webElementGuid>0b2e221c-defe-455c-a261-800c57f7dd75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Recruitment</value>
-      <webElementGuid>ea9a9e6b-1d47-4a1c-a5af-1e87cd3a3e9b</webElementGuid>
+      <value>Directory</value>
+      <webElementGuid>b9b5ad58-8f55-4d6e-9682-990ce97c2f2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,30 +46,30 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item&quot;]/span[@class=&quot;oxd-text oxd-text--span oxd-main-menu-item--name&quot;]</value>
-      <webElementGuid>e908c925-b971-4845-a7fc-f4bfca8b0132</webElementGuid>
+      <webElementGuid>f9dc19bc-96c5-47e8-803b-a4667f688804</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[5]/a/span</value>
-      <webElementGuid>b16a9b06-2052-4107-8210-6c30d818abc2</webElementGuid>
+      <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[9]/a/span</value>
+      <webElementGuid>d9b9cef5-2273-4414-bc32-75fe96d01b64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[5]/a/span</value>
-      <webElementGuid>4dc06104-2ab9-4e88-abdd-365ecb9fee49</webElementGuid>
+      <value>//li[9]/a/span</value>
+      <webElementGuid>2fed79a6-6ca4-49cf-b9a5-1c1427390dee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Recruitment' or . = 'Recruitment')]</value>
-      <webElementGuid>5741027a-0d8c-4756-bc5d-d613608f52d7</webElementGuid>
+      <value>//span[(text() = 'Directory' or . = 'Directory')]</value>
+      <webElementGuid>ec863238-40e0-45a6-b671-d7c04fb18036</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

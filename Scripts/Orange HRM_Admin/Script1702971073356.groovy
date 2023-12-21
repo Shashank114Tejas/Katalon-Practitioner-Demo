@@ -21,3 +21,5 @@ WebUI.callTestCase(findTestCase('OrangeHRM_Login'), [:], FailureHandling.STOP_ON
 
 WebUI.verifyElementText(findTestObject('Object Repository/ByWebSpy/Page_OrangeHRM/Page_OrangeHRM/span_Admin'), 'Admin')
 
+WebUI.closeBrowser()
+

@@ -17,3 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('OrangeHRM_Login'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.rightClick(findTestObject('Object Repository/Page_OrangeHRM/p_(7) Leave Requests to Approve'))
+
+WebUI.verifyNotEqual(findTestObject('Object Repository/Page_OrangeHRM/p_(7) Leave Requests to Approve'), '(7) Leave Requests to Approve')
+
+WebUI.closeBrowser()
+

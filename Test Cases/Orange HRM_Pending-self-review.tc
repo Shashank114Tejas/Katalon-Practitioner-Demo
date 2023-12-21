@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>Orange HRM_Pending-self-review</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>873bc841-0a50-4383-89b9-0d34e65352e5</testCaseGuid>
+   <testCaseGuid>f0fcd625-68c5-432e-bd54-ccb0456f8f57</testCaseGuid>
 </TestCaseEntity>

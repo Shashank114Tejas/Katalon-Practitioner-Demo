@@ -19,7 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('OrangeHRM_Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyTextPresent('Leave', true)
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index')
+
+WebUI.mouseOver(findTestObject('Object Repository/Page_OrangeHRM/p_Employees on Leave Today'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/p_Employees on Leave Today'), 'Employees on Leave Today')
 
 WebUI.closeBrowser()
 

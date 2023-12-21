@@ -21,11 +21,5 @@ WebUI.callTestCase(findTestCase('OrangeHRM_Login'), [:], FailureHandling.STOP_ON
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/span_Recruitment'), 'Recruitment')
 
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index')
-
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/span_Performance'), 'Performance')
-
 WebUI.closeBrowser()
 

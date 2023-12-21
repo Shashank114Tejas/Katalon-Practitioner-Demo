@@ -19,7 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('OrangeHRM_Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyTextPresent('Leave', true)
+WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/span_Recruitment'), 'Recruitment')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/span_Directory'), 'Directory')
 
 WebUI.closeBrowser()
 

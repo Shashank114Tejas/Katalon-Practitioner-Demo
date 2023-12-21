@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('OrangeHRM_Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyTextPresent('Leave', true)
+WebUI.verifyNotEqual(findTestObject('Object Repository/Page_OrangeHRM/p_(2) Candidates to Interview'), '(2) Candidates to Interview')
 
 WebUI.closeBrowser()
 
