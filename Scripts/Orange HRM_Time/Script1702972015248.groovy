@@ -21,7 +21,5 @@ WebUI.callTestCase(findTestCase('OrangeHRM_Login'), [:], FailureHandling.STOP_ON
 
 WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index')
 
-WebUI.verifyTextPresent('Time', true)
-
-WebUI.closeBrowser()
+WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/span_Admin'), 'Admin')
 

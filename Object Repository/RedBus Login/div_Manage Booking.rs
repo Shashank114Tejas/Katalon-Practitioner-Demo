@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Manage Booking</name>
+   <tag></tag>
+   <elementGuidId>62fa148a-645c-4a91-b934-cd742e653d1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.manageHeaderLbl</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='manageHeaderdd']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eb2f5414-120d-46ab-8e27-296fda21a6bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>manageHeaderLbl</value>
+      <webElementGuid>a9a717b4-b8d6-49fa-b109-1dbe3431206f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Manage Booking
+                </value>
+      <webElementGuid>a947ff64-b28f-4d1d-bcc3-a7ee993e693e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;manageHeaderdd&quot;)/div[@class=&quot;manageHeaderLbl&quot;]</value>
+      <webElementGuid>8f7991c8-fd0f-4fe3-9040-924d1a69e9cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='manageHeaderdd']/div</value>
+      <webElementGuid>44e687cb-11fb-4b52-b4bf-9a2dd3ee9366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>3b9285a1-527e-4926-b6f3-4364b716ccd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                Manage Booking
+                ' or . = '
+                Manage Booking
+                ')]</value>
+      <webElementGuid>b425b62e-9b9c-4329-9018-24aa55b86e66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

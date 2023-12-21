@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Espanol</name>
+   <tag></tag>
+   <elementGuidId>70572357-e1e5-4d8f-99ad-413feac62ef8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.config-option-lang.config-options.chosen > span.cli.flag-centre > span.w-50</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hc']/div/ul/li[2]/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3d08d59f-5c10-41c0-babd-aac53afd1391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-50</value>
+      <webElementGuid>375d1fb4-3640-47f8-9325-dfad312e79f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Espanol
+                                    </value>
+      <webElementGuid>9b25fba1-15b6-4408-abf8-72ca136eeecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lang_dd&quot;)/div[@class=&quot;icon-down icon ich dib&quot;]/div[@id=&quot;hc&quot;]/div[1]/ul[@class=&quot;rdc-langlist&quot;]/li[@class=&quot;config-option-lang config-options  chosen&quot;]/span[@class=&quot;cli flag-centre&quot;]/span[@class=&quot;w-50&quot;]</value>
+      <webElementGuid>a5ba74a1-74c0-4e7c-b830-416460e8a5f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hc']/div/ul/li[2]/span/span[2]</value>
+      <webElementGuid>b7f247e4-e004-4d54-9570-7449345784f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li[2]/span/span[2]</value>
+      <webElementGuid>e235d2e5-a28a-47a7-b084-ce1da15ec9d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                        Espanol
+                                    ' or . = '
+                                        Espanol
+                                    ')]</value>
+      <webElementGuid>ce119334-e8c2-41e3-998a-9d8ebfbe785b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

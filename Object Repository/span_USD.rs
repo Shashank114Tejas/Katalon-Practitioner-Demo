@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_USD</name>
+   <tag></tag>
+   <elementGuidId>685daeec-64ea-4390-b999-96779af4e59e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.currency.w-55</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hc']/ul/li/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>154a49c4-b414-478f-8c5a-b905efb74f00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>currency w-55</value>
+      <webElementGuid>aafa2911-8ebf-481b-8b10-e8dc7481dd50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        USD
+                                    </value>
+      <webElementGuid>1a8f5eaf-92de-49dd-8441-fb3ffc71ea6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;curr_arrow&quot;)/div[@id=&quot;hc&quot;]/ul[@class=&quot;rdc-curr-list&quot;]/li[@class=&quot;config-option-curr config-options rdc-config-option chosen&quot;]/span[@class=&quot;cli&quot;]/span[@class=&quot;currency w-55&quot;]</value>
+      <webElementGuid>262fc82a-d240-4f57-b36a-353a4c135f1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hc']/ul/li/span/span[2]</value>
+      <webElementGuid>3e1f2c82-e988-46d4-a24c-e766233b400d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>b4f6d6f3-a454-41e0-a184-5577711f4161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                        USD
+                                    ' or . = '
+                                        USD
+                                    ')]</value>
+      <webElementGuid>4b12781e-833b-4d09-b6b4-639be2c64219</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

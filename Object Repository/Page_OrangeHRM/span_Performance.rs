@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Performance</name>
+   <tag></tag>
+   <elementGuidId>067a2e18-1862-4879-904d-8b70dddfab4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[7]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>63c1c598-d5a3-4aa7-8646-56d8a304d545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--span oxd-main-menu-item--name</value>
+      <webElementGuid>5897e4c2-1db1-42b3-ae4d-2615a48e5742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Performance</value>
+      <webElementGuid>07da26a5-e1d5-460d-b7bf-b6f81c3762c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item&quot;]/span[@class=&quot;oxd-text oxd-text--span oxd-main-menu-item--name&quot;]</value>
+      <webElementGuid>958475ee-7689-4add-a93a-8803597b0bf2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[7]/a/span</value>
+      <webElementGuid>09eccbfd-d746-4254-84a5-e303f0149218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a/span</value>
+      <webElementGuid>eb4f8870-a64a-4096-a59c-150f355e12cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Performance' or . = 'Performance')]</value>
+      <webElementGuid>4c800ad2-ca96-489c-a73b-64e7d4dee38a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

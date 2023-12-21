@@ -37,3 +37,5 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/ByWebSpy/Page_Ora
 
 WebUI.click(findTestObject('Object Repository/ByWebSpy/Page_OrangeHRM/Page_OrangeHRM/button_Login'))
 
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index')
+

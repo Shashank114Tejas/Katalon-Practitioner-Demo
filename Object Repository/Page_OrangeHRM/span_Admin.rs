@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Admin</name>
+   <tag></tag>
+   <elementGuidId>c5fc5188-63e0-4fd6-b65a-31b389a6e578</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.oxd-text.oxd-text--span.oxd-main-menu-item--name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fd1dcd4e-d5f3-4491-8ee1-a6473352df72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--span oxd-main-menu-item--name</value>
+      <webElementGuid>505a9e5f-5d8a-4bf9-ac08-dc948a13db03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admin</value>
+      <webElementGuid>705beadd-a023-4ed0-8c6f-a4afd4c74cbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item&quot;]/span[@class=&quot;oxd-text oxd-text--span oxd-main-menu-item--name&quot;]</value>
+      <webElementGuid>2f624aa4-ed92-4931-90a0-dc46fbfd2e0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li/a/span</value>
+      <webElementGuid>e4d8b547-9e25-46be-bdd5-35d6799eb29f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>0cfa57bd-cdbd-4d83-8426-b107e69f5dc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Admin' or . = 'Admin')]</value>
+      <webElementGuid>f1bf7ef9-2178-4473-8d91-a0b1f6e26fe0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

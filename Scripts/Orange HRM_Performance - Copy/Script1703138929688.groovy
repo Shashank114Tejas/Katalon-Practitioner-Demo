@@ -19,5 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('OrangeHRM_Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementText(findTestObject('Object Repository/ByWebSpy/Page_OrangeHRM/Page_OrangeHRM/span_Admin'), 'Admin')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/span_Recruitment'), 'Recruitment')
+
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index')
+
+WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/span_Performance'), 'Performance')
+
+WebUI.closeBrowser()
 

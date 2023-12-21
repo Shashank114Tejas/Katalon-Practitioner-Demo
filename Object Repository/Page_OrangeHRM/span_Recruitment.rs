@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Recruitment</name>
+   <tag></tag>
+   <elementGuidId>f2e03961-8a9d-4060-bea9-c7e35d518615</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[5]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5c498e53-e0fe-42ee-92c4-591b306d1896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--span oxd-main-menu-item--name</value>
+      <webElementGuid>aa5e54b4-f132-4485-a10a-f88195f33a3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recruitment</value>
+      <webElementGuid>8ef06959-b1b9-4b62-9123-eeefe7526ad5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item&quot;]/span[@class=&quot;oxd-text oxd-text--span oxd-main-menu-item--name&quot;]</value>
+      <webElementGuid>f1a8e31a-9997-48f2-bc1a-cbf3b98bafa5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[5]/a/span</value>
+      <webElementGuid>0227198f-e67a-4bfc-956a-8291031e08db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/span</value>
+      <webElementGuid>0a1cb4b4-d1f4-462f-a04b-bbbb34d41d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Recruitment' or . = 'Recruitment')]</value>
+      <webElementGuid>70b7ca88-1051-404a-b83e-36377fc1dc6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

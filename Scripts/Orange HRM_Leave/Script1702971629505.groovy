@@ -19,9 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('OrangeHRM_Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index')
-
 WebUI.verifyTextPresent('Leave', true)
-
-WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
 

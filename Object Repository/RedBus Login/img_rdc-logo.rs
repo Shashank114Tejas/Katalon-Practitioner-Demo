@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_rdc-logo</name>
+   <tag></tag>
+   <elementGuidId>179e135a-48a9-4279-8174-b258473f7c69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.rdc-logo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='rh_footer rdc-login']/div[2]/div/div/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8aac3ada-3e13-4e0c-8e0f-389e28697f5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rdc-logo</value>
+      <webElementGuid>79204d29-4bc0-4a14-bcea-70cb320e0647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://st.redbus.in/Images/rdc/rdc-redbus-logo.svg</value>
+      <webElementGuid>fe53778a-e2cf-4bdc-949c-06922f2df3a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rh_footer rdc-login&quot;)/div[@class=&quot;footer-row rdc-footer-row&quot;]/div[@class=&quot;clearfix rdc-footer&quot;]/div[@class=&quot;w-100 pR fl rdc-links&quot;]/div[@class=&quot;rights-cont fl rdc-promotion&quot;]/img[@class=&quot;rdc-logo&quot;]</value>
+      <webElementGuid>3be6d76b-753d-4af9-838d-7d3bb7a1e747</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='rh_footer rdc-login']/div[2]/div/div/div[2]/img</value>
+      <webElementGuid>cfa1c365-c1d6-4583-bf30-6ae0d02c7937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'https://st.redbus.in/Images/rdc/rdc-redbus-logo.svg')])[2]</value>
+      <webElementGuid>17941ae1-7279-4ad8-b5ad-dfefd8b04c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div[2]/div/div/div[2]/img</value>
+      <webElementGuid>9d2a0570-1d18-4bfe-b787-a4205d3f8b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://st.redbus.in/Images/rdc/rdc-redbus-logo.svg']</value>
+      <webElementGuid>69129753-58ca-4e7c-85a4-bf7de5b39825</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

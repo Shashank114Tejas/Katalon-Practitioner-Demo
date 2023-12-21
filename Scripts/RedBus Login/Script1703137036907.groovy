@@ -17,7 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('OrangeHRM_Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser('')
 
-WebUI.verifyElementText(findTestObject('Object Repository/ByWebSpy/Page_OrangeHRM/Page_OrangeHRM/span_Admin'), 'Admin')
+WebUI.navigateToUrl('https://www.redbus.com/')
+
+WebUI.verifyElementText(findTestObject('Object Repository/RedBus Login/a_Airport Transfers'), 'Airport Transfers')
+
+WebUI.click(findTestObject('Object Repository/RedBus Login/div_English                                _487c8f'))
+
+WebUI.click(findTestObject('Object Repository/RedBus Login/span_English'))
+
+WebUI.click(findTestObject('Object Repository/RedBus Login/div_USD                                    _492642'))
+
+WebUI.click(findTestObject('Object Repository/RedBus Login/div_Manage Booking'))
+
+WebUI.click(findTestObject('Object Repository/RedBus Login/div_Cancel                                 _77d6b9'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/RedBus Login/img_rdc-logo'), 0)
+
+WebUI.closeBrowser()
 
