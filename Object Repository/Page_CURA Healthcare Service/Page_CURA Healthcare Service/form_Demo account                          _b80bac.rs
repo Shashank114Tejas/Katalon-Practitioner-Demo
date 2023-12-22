@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//form[@action='https://katalon-demo-cura.herokuapp.com/authenticate.php']</value>
+         <value>//form</value>
       </entry>
       <entry>
          <key>CSS</key>
